@@ -1,4 +1,4 @@
-import { generateAll } from '../art/index.js';
+import { generateAll } from '../art/textures.js';
 import { CHAR_DIRS } from '../art/pixel.js';
 import { txt } from '../ui/theme.js';
 

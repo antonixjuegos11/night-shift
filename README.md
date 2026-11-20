@@ -45,7 +45,7 @@ server.js                  Servidor estático sin dependencias
 src/main.js                Configuración de Phaser
 src/config.js              Constantes ajustables (tiempo, capacidades, velocidad...)
 src/data/                  Datos: products.js (10 productos), map.js (layout y colisiones)
-src/art/                   Generación procedural de pixel art y texturas
+src/art/                   Generación procedural de pixel art (textures.js, pixel.js, world.js)
 src/scenes/                BootScene, MenuScene, GameScene, UIScene (HUD)
 src/systems/               TimeSystem, SaveSystem, CustomerSystem, InteractionSystem,
                            Actions, Pathfinding, GameState, EventBus
