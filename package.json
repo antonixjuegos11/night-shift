@@ -1,0 +1,14 @@
+{
+  "name": "night-shift",
+  "version": "0.1.0",
+  "description": "NIGHT SHIFT - simulador de supermercado nocturno (Phaser 3, top-down, pixel art)",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "start": "node server.js",
+    "test": "node scripts/test-logic.mjs && node scripts/smoke-mock.mjs"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  }
+}
